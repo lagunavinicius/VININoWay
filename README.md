@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/icons/771874706534039552/a_94cff1017744923974d58e026f540cf4.gif?size=4096">
+  <img align="right" alt="NoWay-yoda" src="https://cdn.discordapp.com/icons/771874706534039552/a_94cff1017744923974d58e026f540cf4.gif?size=4096">
 </div>
   
   ##
